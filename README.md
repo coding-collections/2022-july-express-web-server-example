@@ -5,7 +5,7 @@
 ### Checkout repository
 
 ```ssh
-
+git clone git@github.com:coding-collections/2022-july-express-web-server-example.git
 ```
 
 ### Install node dependencies
